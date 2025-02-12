@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: mlproject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/sushil685/e2emlproject
+Author: sushil685
+Author-email: TT@TT.COM
+Project-URL: Bug Tracker, https://github.com/sushil685/e2emlproject/issues
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# e2emlproject
